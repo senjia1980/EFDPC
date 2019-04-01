@@ -1,3 +1,8 @@
+
+A Novel Ranking-Based Clustering Approach for Hyperspectral Band Selection
+
+
+
 Please cite our papers if you find it useful for your research.
 
 @Article{2016A_Jia_ranking,
